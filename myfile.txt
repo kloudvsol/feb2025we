@@ -1,2 +1,2 @@
 my file content
-new 
+new data 
